@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-end-ML-Project-Implementation"
 AUTHOR_USER_NAME = "JahidHasan010"
-SRC_REPO = "ML_Project"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "jahidjahid36452@gmail.com"
 
 
